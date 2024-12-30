@@ -24,7 +24,6 @@ brew install arm-none-eabi-gcc
 ├── README.md
 ├── boot.S             # Main bootloader assembly code
 ├── link.ld           # Linker script
-└── .gitignore        # Git ignore file
 ```
 
 ## Building the Bootloader
